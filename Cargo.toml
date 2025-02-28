@@ -1,0 +1,9 @@
+[package]
+name = "rust_2025"
+version = "0.1.0"
+edition = "2021"
+description = "My personal stab at the cryptopals.com challenge to show that I know how stuff works."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
